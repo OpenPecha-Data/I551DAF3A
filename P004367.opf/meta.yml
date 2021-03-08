@@ -4,4 +4,39 @@ source_metadata:
   id: bdr:W2DB4577
   title: གསུང་འབུམ། ཤེས་རབ་རིན་ཆེན
   author: ''
-  volumes: {}
+  volumes:
+    33916342a18842e79e852e6b773d3c3c:
+      image_group_id: I1GS89954
+      title: ''
+      volume_number: 1
+      total_pages: 432
+    be534c869c03402fb53c895c2355fdc4:
+      image_group_id: I1GS89955
+      title: ''
+      volume_number: 2
+      total_pages: 476
+    90ab12b5b5854d45b43af29a8cab7437:
+      image_group_id: I1GS89956
+      title: ''
+      volume_number: 3
+      total_pages: 476
+    609004ee7fc8439c88eeaf85b3263747:
+      image_group_id: I1GS89957
+      title: ''
+      volume_number: 4
+      total_pages: 478
+    46f735d573f64951a2a34eb2f539aeb1:
+      image_group_id: I1GS89958
+      title: ''
+      volume_number: 5
+      total_pages: 502
+    04fb234b582141adb0b302e2111e4bc8:
+      image_group_id: I1GS89959
+      title: ''
+      volume_number: 6
+      total_pages: 528
+    3abff0a0d3b040cfb97f40f63cc909e4:
+      image_group_id: I1GS89960
+      title: ''
+      volume_number: 7
+      total_pages: 428
